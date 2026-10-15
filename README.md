@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Ajit Karanjkar
+Data Analyst based in Barrie, Ontario, Canada.
 
-<!--
-**ajitkaranjkar/ajitkaranjkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Toolkit
+SQL, Python, Excel, Power BI, Tableau
 
-Here are some ideas to get you started:
+## What I do
+I turn operational data into accurate reports, KPI dashboards, and visualizations that support business decisions — from data cleaning and validation to trend analysis and stakeholder reporting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently
+Building out my data analytics portfolio through hands-on end-to-end projects (Python, SQL, Excel, Tableau/Power BI).
+
+## Connect
+- LinkedIn: https://www.linkedin.com/in/ajit-karanjkar-160763292
+- Email: ajit0440karanjkar@gmail.com
