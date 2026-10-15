@@ -1,3 +1,5 @@
+![Ajit Karanjkar - Data Analyst](github_header.png)
+
 # Hi, I'm Ajit Karanjkar
 Data Analyst based in Barrie, Ontario, Canada.
 
